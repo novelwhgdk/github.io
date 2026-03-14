@@ -22,4 +22,4 @@
 
 앱 이용이나 회원 탈퇴 진행이 어려운 경우 아래 이메일로 문의할 수 있습니다.
 
-- 이메일: novelwhgdk@gmail.com
+- 이메일: sched4all@gmail.com
