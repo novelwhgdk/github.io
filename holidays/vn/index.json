@@ -1,0 +1,9 @@
+{
+  "countryCode": "VN",
+  "years": {
+    "2026": {
+      "version": 2,
+      "file": "vn_2026.json"
+    }
+  }
+}
