@@ -1,0 +1,9 @@
+{
+  "countryCode": "KR",
+  "years": {
+    "2026": {
+      "version": 1,
+      "file": "kr_2026.json"
+    }
+  }
+}
