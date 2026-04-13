@@ -5,61 +5,73 @@
     {
       "date": "2026-01-01",
       "name": "Tết Dương lịch",
+      "description": "Ngày đầu năm dương lịch",
       "order": 0
     },
     {
       "date": "2026-02-16",
       "name": "Tết Nguyên đán",
+      "description": "Kỳ nghỉ Tết cổ truyền",
       "order": 0
     },
     {
       "date": "2026-02-17",
       "name": "Tết Nguyên đán",
+      "description": "Ngày đầu năm âm lịch",
       "order": 0
     },
     {
       "date": "2026-02-18",
       "name": "Tết Nguyên đán",
+      "description": "Ngày nghỉ Tết cổ truyền",
       "order": 0
     },
     {
       "date": "2026-02-19",
       "name": "Tết Nguyên đán",
+      "description": "Ngày nghỉ Tết cổ truyền",
       "order": 0
     },
     {
       "date": "2026-02-20",
       "name": "Tết Nguyên đán",
+      "description": "Ngày nghỉ Tết cổ truyền",
       "order": 0
     },
     {
       "date": "2026-04-26",
       "name": "Giỗ Tổ Hùng Vương",
+      "description": "Ngày tưởng nhớ Vua Hùng",
       "order": 0
     },
     {
       "date": "2026-04-27",
       "name": "Nghỉ bù Giỗ Tổ Hùng Vương",
+      "description": "Nghỉ bù lễ Hùng Vương",
       "order": 0
     },
     {
       "date": "2026-04-30",
       "name": "Ngày Chiến thắng",
+      "description": "Kỷ niệm ngày thống nhất",
       "order": 0
     },
     {
       "date": "2026-05-01",
       "name": "Ngày Quốc tế Lao động",
+      "description": "Ngày tôn vinh người lao động",
       "order": 0
     },
     {
       "date": "2026-09-01",
       "name": "Nghỉ lễ Quốc khánh",
+      "description": "Ngày nghỉ trước Quốc khánh",
       "order": 0
     },
     {
       "date": "2026-09-02",
       "name": "Quốc khánh",
+      "description": "Ngày Quốc khánh Việt Nam",
       "order": 0
     }
   ]
