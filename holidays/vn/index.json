@@ -2,7 +2,7 @@
   "countryCode": "VN",
   "years": {
     "2026": {
-      "version": 2,
+      "version": 1,
       "file": "vn_2026.json"
     }
   }
