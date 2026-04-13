@@ -10,8 +10,8 @@
     },
     {
       "date": "2026-02-16",
-      "name": "Tết Nguyên đán",
-      "description": "Kỳ nghỉ Tết cổ truyền",
+      "name": "Kỳ nghỉ",
+      "description": "Kỳ nghỉ Tết Nguyên đán",
       "order": 0
     },
     {
@@ -22,20 +22,20 @@
     },
     {
       "date": "2026-02-18",
-      "name": "Tết Nguyên đán",
-      "description": "Ngày nghỉ Tết cổ truyền",
+      "name": "Kỳ nghỉ",
+      "description": "Kỳ nghỉ Tết Nguyên đán",
       "order": 0
     },
     {
       "date": "2026-02-19",
-      "name": "Tết Nguyên đán",
-      "description": "Ngày nghỉ Tết cổ truyền",
+      "name": "Kỳ nghỉ",
+      "description": "Kỳ nghỉ Tết Nguyên đán",
       "order": 0
     },
     {
       "date": "2026-02-20",
-      "name": "Tết Nguyên đán",
-      "description": "Ngày nghỉ Tết cổ truyền",
+      "name": "Kỳ nghỉ",
+      "description": "Kỳ nghỉ Tết Nguyên đán",
       "order": 0
     },
     {
@@ -46,8 +46,8 @@
     },
     {
       "date": "2026-04-27",
-      "name": "Nghỉ bù Giỗ Tổ Hùng Vương",
-      "description": "Nghỉ bù lễ Hùng Vương",
+      "name": "Nghỉ bù",
+      "description": "Nghỉ bù Giỗ Tổ Hùng Vương",
       "order": 0
     },
     {
@@ -64,8 +64,8 @@
     },
     {
       "date": "2026-09-01",
-      "name": "Nghỉ lễ Quốc khánh",
-      "description": "Ngày nghỉ trước Quốc khánh",
+      "name": "Kỳ nghỉ",
+      "description": "Kỳ nghỉ Quốc khánh",
       "order": 0
     },
     {
