@@ -2,18 +2,391 @@
   "quotes": [
     {
       "type": "completed",
-      "quote": "오늘도 해냈어요.",
-      "author": null
+      "quote": "시작하는 법은\n말을 줄이고 행동하는 것이다.",
+      "author": "월트 디즈니"
+    },
+    {
+      "type": "completed",
+      "quote": "낙관은 성취로 이끄는 믿음이다.\n희망 없이는 아무것도 이룰 수 없다.",
+      "author": "헬렌 켈러"
+    },
+    {
+      "type": "completed",
+      "quote": "해내기 전까지는 항상 불가능해 보인다.",
+      "author": "넬슨 만델라"
+    },
+    {
+      "type": "completed",
+      "quote": "움직이지 않으면\n아무것도 이루어지지 않는다.",
+      "author": "마야 안젤루"
+    },
+    {
+      "type": "completed",
+      "quote": "위대한 일을 하는 유일한 방법은\n자신이 하는 일을 사랑하는 것이다.",
+      "author": "스티브 잡스"
+    },
+    {
+      "type": "completed",
+      "quote": "가장 어려운 일은\n행동하기로 결심하는 것이다.\n나머지는 끈기의 문제다.",
+      "author": "아멜리아 에어하트"
+    },
+    {
+      "type": "completed",
+      "quote": "잘 말하는 것보다\n잘 해내는 것이 낫다.",
+      "author": "벤저민 프랭클린"
+    },
+    {
+      "type": "completed",
+      "quote": "앞서 나가는 비결은\n시작하는 데 있다.",
+      "author": "마크 트웨인"
+    },
+    {
+      "type": "completed",
+      "quote": "천 리 길도\n한 걸음부터 시작된다.",
+      "author": "노자"
+    },
+    {
+      "type": "completed",
+      "quote": "성공은 최종적인 것이 아니고,\n실패는 치명적인 것이 아니다.\n중요한 것은 계속할 용기다.",
+      "author": "윈스턴 처칠"
+    },
+    {
+      "type": "completed",
+      "quote": "당신이 하는 일이\n차이를 만든다고 믿고 행동하라.\n실제로 차이를 만든다.",
+      "author": "윌리엄 제임스"
+    },
+    {
+      "type": "completed",
+      "quote": "꿈의 아름다움을 믿는 사람에게\n미래는 속한다.",
+      "author": "엘리너 루스벨트"
+    },
+    {
+      "type": "completed",
+      "quote": "완벽은 닿을 수 없지만,\n그것을 좇으면\n탁월함에 닿을 수 있다.",
+      "author": "빈스 롬바르디"
+    },
+    {
+      "type": "completed",
+      "quote": "항상 햇빛을 향해 얼굴을 두어라.\n그러면 그림자는\n네 뒤로 물러난다.",
+      "author": "월트 휘트먼"
+    },
+    {
+      "type": "completed",
+      "quote": "물가에 서서 바라보기만 해서는\n바다를 건널 수 없다.",
+      "author": "라빈드라나트 타고르"
+    },
+    {
+      "type": "completed",
+      "quote": "세상을 더 낫게 만드는 일을\n누구나 지금 바로 시작할 수 있다는 건\n참으로 멋진 일이다.",
+      "author": "안네 프랑크"
+    },
+    {
+      "type": "completed",
+      "quote": "할 수 있다고 믿든,\n할 수 없다고 믿든,\n결국 믿는 대로 된다.",
+      "author": "헨리 포드"
+    },
+    {
+      "type": "completed",
+      "quote": "새로운 목표를 세우거나\n새로운 꿈을 꾸기에\n너무 늦은 때란 없다.",
+      "author": "C. S. 루이스"
+    },
+    {
+      "type": "completed",
+      "quote": "달성된 작은 목표가 큰 승리를 만든다.",
+      "author": "빈센트 반 고흐"
+    },
+    {
+      "type": "completed",
+      "quote": "성공은 날마다 반복되는\n작은 노력들의 합이다.",
+      "author": "로버트 콜리어"
+    },
+    {
+      "type": "completed",
+      "quote": "성공이 행복의 열쇠가 아니라,\n행복이 성공의 열쇠다.",
+      "author": "알베르트 슈바이처"
+    },
+    {
+      "type": "completed",
+      "quote": "해낸 뒤에야\n보이는 길이 있다.",
+      "author": "익명"
+    },
+    {
+      "type": "completed",
+      "quote": "믿음이란 계단 전체가 보이지 않아도\n첫 발을 내딛는 것이다.",
+      "author": "마틴 루서 킹 주니어"
+    },
+    {
+      "type": "completed",
+      "quote": "우리 뒤에 있는 것과 앞에 있는 것은\n우리 안에 있는 것에 비하면\n작은 일이다.",
+      "author": "랠프 월도 에머슨"
+    },
+    {
+      "type": "completed",
+      "quote": "작은 성공을 축하하라,\n그것이 큰 성공을 부른다.",
+      "author": "마야 안젤루"
+    },
+    {
+      "type": "completed",
+      "quote": "당신이 해낸 일은 당신의 힘을 증명한다.",
+      "author": "시어도어 루스벨트"
+    },
+    {
+      "type": "completed",
+      "quote": "작은 친절이라도\n결코 헛되지 않다.",
+      "author": "이솝"
+    },
+    {
+      "type": "completed",
+      "quote": "작은 한 걸음도\n반복되면\n멀리 데려간다.",
+      "author": "익명"
+    },
+    {
+      "type": "completed",
+      "quote": "오늘을 정리한 사람은\n내일을 덜 두려워한다.",
+      "author": "익명"
+    },
+    {
+      "type": "completed",
+      "quote": "성공은 어디에 도달했는가보다\n어떤 장애를 넘어왔는가로 재야 한다.",
+      "author": "부커 T. 워싱턴"
+    },
+    {
+      "type": "completed",
+      "quote": "한쪽 문이 닫히면 다른 문이 열린다.\n하지만 우리는 종종 닫힌 문만 오래 바라본다.",
+      "author": "알렉산더 그레이엄 벨"
+    },
+    {
+      "type": "completed",
+      "quote": "꿈의 방향으로 자신 있게 나아가라.\n마음속에 그린 삶을 살아라.",
+      "author": "헨리 데이비드 소로"
+    },
+    {
+      "type": "completed",
+      "quote": "어려움의 한가운데에는\n기회가 있다.",
+      "author": "알베르트 아인슈타인"
+    },
+    {
+      "type": "completed",
+      "quote": "미래는\n오늘 무엇을 하느냐에 달려 있다.",
+      "author": "마하트마 간디"
+    },
+    {
+      "type": "completed",
+      "quote": "위대한 일은\n충동으로 되는 것이 아니라,\n작은 일들이 모여 이루어진다.",
+      "author": "빈센트 반 고흐"
+    },
+    {
+      "type": "completed",
+      "quote": "할 수 있다고 믿어라.\n그러면 이미 반쯤 온 것이다.",
+      "author": "시어도어 루스벨트"
+    },
+    {
+      "type": "completed",
+      "quote": "하루를 그날의 수확으로 판단하지 말고,\n뿌린 씨앗으로 판단하라.",
+      "author": "로버트 루이스 스티븐슨"
+    },
+    {
+      "type": "completed",
+      "quote": "하루를 이끌어라.\n그렇지 않으면 하루가 너를 끌고 간다.",
+      "author": "짐 론"
+    },
+    {
+      "type": "completed",
+      "quote": "위대해지기 위해 시작할 필요는 없지만,\n위대해지려면 시작해야 한다.",
+      "author": "지그 지글러"
+    },
+    {
+      "type": "completed",
+      "quote": "행복은 이미 만들어진 것이 아니다.\n그것은 당신의 행동에서 나온다.",
+      "author": "달라이 라마"
     },
     {
       "type": "empty",
-      "quote": "오늘은 잠깐 쉬어가도 괜찮아요.",
-      "author": null
+      "quote": "조금 느리더라도\n끝까지 확실하게."
     },
     {
       "type": "empty",
-      "quote": "삶이 있는 한 희망은 있다.",
-      "author": "키케로"
+      "quote": "흔들린다는 건\n무너지는 게 아니라\n잘 버티고 있다는 증거야."
+    },
+    {
+      "type": "empty",
+      "quote": "아무 일정이 없는 날엔\n하늘 한 번 더 보고,\n바람도 한 번 더 느껴보자."
+    },
+    {
+      "type": "empty",
+      "quote": "오늘의 작은 선택이\n내일의 나를 만든다."
+    },
+    {
+      "type": "empty",
+      "quote": "조금 쉬어가도 괜찮아."
+    },
+    {
+      "type": "empty",
+      "quote": "매일 1%씩 성장하기.\n어제보다 나은 오늘이면\n그걸로 충분해."
+    },
+    {
+      "type": "empty",
+      "quote": "오늘도\n따뜻한 일이 하나쯤\n있기를"
+    },
+    {
+      "type": "empty",
+      "quote": "잠시라도\n밝은 쪽을 바라봐도 괜찮아요."
+    },
+    {
+      "type": "empty",
+      "quote": "네 리듬대로 가면 돼."
+    },
+    {
+      "type": "empty",
+      "quote": "괜찮아.\n오늘은 조금 서툴러도 돼."
+    },
+    {
+      "type": "empty",
+      "quote": "조용히 견딘 시간은\n사라지지 않는다.\n언젠가 너를 지켜주는 힘이 된다."
+    },
+    {
+      "type": "empty",
+      "quote": "오늘도\n멋지게 해낼 너를 믿어!"
+    },
+    {
+      "type": "empty",
+      "quote": "오늘은 나를\n조금 더 아껴주자."
+    },
+    {
+      "type": "empty",
+      "quote": "천천히 가도 괜찮아.\n너는 잘 가고 있어."
+    },
+    {
+      "type": "empty",
+      "quote": "매일 감사한 일을\n하나쯤 떠올려 봐.\n작고 소중한 것들이 보일 거야."
+    },
+    {
+      "type": "empty",
+      "quote": "오늘의 서툰 발걸음이\n내일의 나를\n완성한다."
+    },
+    {
+      "type": "empty",
+      "quote": "잠시 숨을 고르는 건\n더 멀리 가기 위한\n준비일 뿐이야."
+    },
+    {
+      "type": "empty",
+      "quote": "한 번쯤 멈춰도\n길은 사라지지 않아."
+    },
+    {
+      "type": "empty",
+      "quote": "남을 행복하게 하는 것은\n향수를 뿌리는 것과 같다.\n\n뿌릴 때 자신에게도\n몇 방울 묻기 때문이다."
+    },
+    {
+      "type": "empty",
+      "quote": "오늘은 결과보다\n마음이 덜 아픈 쪽으로\n가도 괜찮아."
+    },
+    {
+      "type": "empty",
+      "quote": "나는 완벽이 아니라\n최선을 위해\n노력한다."
+    },
+    {
+      "type": "empty",
+      "quote": "누가 뭐라 해도\n나는 결국 해낼 거라는 걸\n내 스스로가 가장 잘 안다."
+    },
+    {
+      "type": "empty",
+      "quote": "넘어지는 건 부끄러운 게 아냐.\n다시 일어서지 않는 게\n부끄러운 거지."
+    },
+    {
+      "type": "empty",
+      "quote": "남의 시선에\n나를 맞추기엔\n내 인생이 너무 아까워."
+    },
+    {
+      "type": "empty",
+      "quote": "먼저 손 내미는 것,\n그것이 진정한 용기다."
+    },
+    {
+      "type": "empty",
+      "quote": "오늘은 조금\n가벼운 마음으로 가자."
+    },
+    {
+      "type": "empty",
+      "quote": "마음이 따뜻한 쪽으로\n천천히 걸어가자."
+    },
+    {
+      "type": "empty",
+      "quote": "작은 친절 하나가\n세상을 환하게\n만들 수 있어."
+    },
+    {
+      "type": "empty",
+      "quote": "잠시 쉬어가는 것도\n충분한 용기야."
+    },
+    {
+      "type": "empty",
+      "quote": "오늘은 나를 아껴주는 날."
+    },
+    {
+      "type": "empty",
+      "quote": "마음이 흔들리는 건\n약해서가 아니라\n진심으로 살고 있기 때문이야."
+    },
+    {
+      "type": "empty",
+      "quote": "오늘의 불안이\n내일의 너를\n설명하지는 않아."
+    },
+    {
+      "type": "empty",
+      "quote": "숨을 고르고,\n마음을 펴고,\n다시 나아가자."
+    },
+    {
+      "type": "empty",
+      "quote": "우리는 결국\n각자가 자주 품은 마음을\n닮아간다."
+    },
+    {
+      "type": "empty",
+      "quote": "남들이 보지 않는 곳에서도\n나는 조용히\n뿌리를 내린다."
+    },
+    {
+      "type": "empty",
+      "quote": "내가 나를 믿어주는 일,\n그것부터 시작하자."
+    },
+    {
+      "type": "empty",
+      "quote": "너의 앞날은 언제나 맑음."
+    },
+    {
+      "type": "empty",
+      "quote": "작은 파동에\n일일이 흔들리기엔\n내 꿈이 너무 크다."
+    },
+    {
+      "type": "empty",
+      "quote": "아직 보이지 않아도\n가능성은 분명 있어."
+    },
+    {
+      "type": "empty",
+      "quote": "오늘의 너에게 따뜻한 박수를."
+    },
+    {
+      "type": "empty",
+      "quote": "조급해하지 않아도 돼.\n좋은 일은\n늦지 않게 찾아올 거야."
+    },
+    {
+      "type": "empty",
+      "quote": "다정한 말 한마디가\n가장 차가운 마음을\n녹이는 법이야."
+    },
+    {
+      "type": "empty",
+      "quote": "오늘은 조용히\n너를 응원하는 날이야."
+    },
+    {
+      "type": "empty",
+      "quote": "오늘은 마음에\n햇살이 조금 더\n머물렀으면 좋겠다."
+    },
+    {
+      "type": "empty",
+      "quote": "내가 건넨 작은 온기가\n누군가에겐\n살아갈 힘이 된다."
+    },
+    {
+      "type": "empty",
+      "quote": "괜찮아.\n잘하고 있어.\n정말로."
+    },
+    {
+      "type": "empty",
+      "quote": "오늘도 파도처럼 흔들리고 부서져도,\n결국 반짝일 너에게"
     }
   ]
 }
