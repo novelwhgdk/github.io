@@ -1,0 +1,16 @@
+{"countryCode":"SG","year":2026,"holidays":[
+  {"date":"2026-01-01","name":"New Year's Day","description":"Gazetted public holiday","order":0},
+  {"date":"2026-02-17","name":"Chinese New Year","description":"First day","order":0},
+  {"date":"2026-02-18","name":"Chinese New Year","description":"Second day","order":0},
+  {"date":"2026-03-21","name":"Hari Raya Puasa","description":"Gazetted public holiday","order":0},
+  {"date":"2026-04-03","name":"Good Friday","description":"Gazetted public holiday","order":0},
+  {"date":"2026-05-01","name":"Labour Day","description":"Gazetted public holiday","order":0},
+  {"date":"2026-05-27","name":"Hari Raya Haji","description":"Gazetted public holiday","order":0},
+  {"date":"2026-05-31","name":"Vesak Day","description":"Gazetted public holiday","order":0},
+  {"date":"2026-06-01","name":"Vesak Day (observed)","description":"Public holiday in lieu of Sunday 31 May","order":0},
+  {"date":"2026-08-09","name":"National Day","description":"Gazetted public holiday","order":0},
+  {"date":"2026-08-10","name":"National Day (observed)","description":"Public holiday in lieu of Sunday 9 August","order":0},
+  {"date":"2026-11-08","name":"Deepavali","description":"Gazetted public holiday","order":0},
+  {"date":"2026-11-09","name":"Deepavali (observed)","description":"Public holiday in lieu of Sunday 8 November","order":0},
+  {"date":"2026-12-25","name":"Christmas Day","description":"Gazetted public holiday","order":0}
+]}
