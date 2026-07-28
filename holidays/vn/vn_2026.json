@@ -1,18 +1,18 @@
 {
   "countryCode":"VN","year":2026,"holidays":[
     {"date":"2026-01-01","name":"Tết Dương lịch","description":"Ngày đầu năm dương lịch","order":0},
-    {"date":"2026-01-02","name":"Ngày nghỉ hoán đổi","description":"Nghỉ Tết Dương lịch; làm bù vào ngày 10/01/2026","order":0},
-    {"date":"2026-02-16","name":"Kỳ nghỉ Tết Nguyên đán","description":"Ngày nghỉ chính thức của cơ quan nhà nước","order":0},
+    {"date":"2026-01-02","name":"Nghỉ bù","description":"Nghỉ bù Tết Dương lịch; làm bù ngày 10/01/2026","order":0},
+    {"date":"2026-02-16","name":"Kỳ nghỉ","description":"Kỳ nghỉ Tết Nguyên đán","order":0},
     {"date":"2026-02-17","name":"Tết Nguyên đán","description":"Ngày đầu năm âm lịch","order":0},
-    {"date":"2026-02-18","name":"Kỳ nghỉ Tết Nguyên đán","description":"Ngày nghỉ chính thức của cơ quan nhà nước","order":0},
-    {"date":"2026-02-19","name":"Kỳ nghỉ Tết Nguyên đán","description":"Ngày nghỉ chính thức của cơ quan nhà nước","order":0},
-    {"date":"2026-02-20","name":"Kỳ nghỉ Tết Nguyên đán","description":"Ngày nghỉ chính thức của cơ quan nhà nước","order":0},
+    {"date":"2026-02-18","name":"Kỳ nghỉ","description":"Kỳ nghỉ Tết Nguyên đán","order":0},
+    {"date":"2026-02-19","name":"Kỳ nghỉ","description":"Kỳ nghỉ Tết Nguyên đán","order":0},
+    {"date":"2026-02-20","name":"Kỳ nghỉ","description":"Kỳ nghỉ Tết Nguyên đán","order":0},
     {"date":"2026-04-26","name":"Giỗ Tổ Hùng Vương","description":"Ngày tưởng nhớ các Vua Hùng","order":0},
     {"date":"2026-04-27","name":"Nghỉ bù","description":"Nghỉ bù Giỗ Tổ Hùng Vương","order":0},
     {"date":"2026-04-30","name":"Ngày Chiến thắng","description":"Kỷ niệm ngày thống nhất đất nước","order":0},
     {"date":"2026-05-01","name":"Ngày Quốc tế Lao động","description":"Ngày tôn vinh người lao động","order":0},
-    {"date":"2026-08-31","name":"Ngày nghỉ hoán đổi","description":"Nghỉ Quốc khánh; làm bù vào ngày 22/08/2026","order":0},
-    {"date":"2026-09-01","name":"Kỳ nghỉ Quốc khánh","description":"Ngày nghỉ liền kề trước Quốc khánh","order":0},
+    {"date":"2026-08-31","name":"Nghỉ bù","description":"Nghỉ bù dịp Quốc khánh; làm bù ngày 22/08/2026","order":0},
+    {"date":"2026-09-01","name":"Kỳ nghỉ","description":"Kỳ nghỉ Quốc khánh","order":0},
     {"date":"2026-09-02","name":"Quốc khánh","description":"Ngày Quốc khánh Việt Nam","order":0}
   ]
 }
