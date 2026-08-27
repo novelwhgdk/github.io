@@ -1,32 +1,253 @@
-{"languageCode":"en","quotes":[
-  {"type":"completed","quote":"The way to get started is to quit talking\nand begin doing.","author":"Walt Disney"},
-  {"type":"completed","quote":"Optimism is the faith that leads to achievement.\nNothing can be done without hope.","author":"Helen Keller"},
-  {"type":"completed","quote":"It always seems impossible\nuntil it's done.","author":"Nelson Mandela"},
-  {"type":"completed","quote":"The secret of getting ahead\nis getting started.","author":"Mark Twain"},
-  {"type":"completed","quote":"A journey of a thousand miles\nbegins with a single step.","author":"Lao Tzu"},
-  {"type":"completed","quote":"Success is the sum of small efforts,\nrepeated day in and day out.","author":"Robert Collier"},
-  {"type":"completed","quote":"Believe you can,\nand you're halfway there.","author":"Theodore Roosevelt"},
-  {"type":"completed","quote":"In the middle of difficulty\nlies opportunity.","author":"Albert Einstein"},
-  {"type":"completed","quote":"The future depends on\nwhat you do today.","author":"Mahatma Gandhi"},
-  {"type":"completed","quote":"Great things are done by a series\nof small things brought together.","author":"Vincent van Gogh"},
-  {"type":"completed","quote":"Act as if what you do makes a difference.\nIt does.","author":"William James"},
-  {"type":"completed","quote":"A small goal completed today\ncan become tomorrow's great victory.","author":"Anonymous"},
-  {"type":"empty","quote":"Storms pass,\nand the sun rises again."},
-  {"type":"empty","quote":"It's okay to rest for a while."},
-  {"type":"empty","quote":"Move at your own pace."},
-  {"type":"empty","quote":"You don't have to be perfect today.\nShowing up is enough."},
-  {"type":"empty","quote":"Pause, breathe,\nand begin again when you're ready."},
-  {"type":"empty","quote":"A small step still moves you forward."},
-  {"type":"empty","quote":"Be a little kinder to yourself today."},
-  {"type":"empty","quote":"Your difficult day\ndoes not define your tomorrow."},
-  {"type":"empty","quote":"The road is still there\neven when you stop to rest."},
-  {"type":"empty","quote":"Let one warm thought\nstay with you today."},
-  {"type":"empty","quote":"You are allowed to choose\nwhat hurts your heart less today."},
-  {"type":"empty","quote":"Your quiet effort\nis still taking root."},
-  {"type":"empty","quote":"Trust the person who has stayed with you\nthrough every day: yourself."},
-  {"type":"empty","quote":"Good things can arrive slowly\nand still arrive on time."},
-  {"type":"empty","quote":"One kind word can warm\nthe coldest moment."},
-  {"type":"empty","quote":"A simple action now\nis stronger than a perfect plan later."},
-  {"type":"empty","quote":"Even if today feels uncertain,\nyou can take the next gentle step."},
-  {"type":"empty","quote":"On lonely days,\nbe firmly on your own side."}
-]}
+{
+  "languageCode": "en",
+  "quotes": [
+    {
+      "type": "completed",
+      "quote": "The way to get started is to quit talking\nand begin doing.",
+      "author": "Walt Disney"
+    },
+    {
+      "type": "completed",
+      "quote": "Optimism is the faith that leads to achievement.\nNothing can be done without hope.",
+      "author": "Helen Keller"
+    },
+    {
+      "type": "completed",
+      "quote": "It always seems impossible\nuntil it's done.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "type": "completed",
+      "quote": "The secret of getting ahead\nis getting started.",
+      "author": "Mark Twain"
+    },
+    {
+      "type": "completed",
+      "quote": "A journey of a thousand miles\nbegins with a single step.",
+      "author": "Lao Tzu"
+    },
+    {
+      "type": "completed",
+      "quote": "Success is the sum of small efforts,\nrepeated day in and day out.",
+      "author": "Robert Collier"
+    },
+    {
+      "type": "completed",
+      "quote": "Believe you can,\nand you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "type": "completed",
+      "quote": "In the middle of difficulty\nlies opportunity.",
+      "author": "Albert Einstein"
+    },
+    {
+      "type": "completed",
+      "quote": "The future depends on\nwhat you do today.",
+      "author": "Mahatma Gandhi"
+    },
+    {
+      "type": "completed",
+      "quote": "Great things are done by a series\nof small things brought together.",
+      "author": "Vincent van Gogh"
+    },
+    {
+      "type": "completed",
+      "quote": "Act as if what you do makes a difference.\nIt does.",
+      "author": "William James"
+    },
+    {
+      "type": "completed",
+      "quote": "A small goal completed today\ncan become tomorrow's great victory.",
+      "author": "Anonymous"
+    },
+    {
+      "type": "empty",
+      "quote": "The task is smaller than it seems,\nand the start is closer than it feels."
+    },
+    {
+      "type": "empty",
+      "quote": "Check the direction\nbefore the speed."
+    },
+    {
+      "type": "empty",
+      "quote": "Completion usually comes\nfrom quiet repetition."
+    },
+    {
+      "type": "empty",
+      "quote": "Focus on the one thing\nyou can do now."
+    },
+    {
+      "type": "empty",
+      "quote": "There is no need to rush,\nas long as you keep moving."
+    },
+    {
+      "type": "empty",
+      "quote": "Small progress\nis still real progress."
+    },
+    {
+      "type": "empty",
+      "quote": "Keep the plan simple\nand the action consistent."
+    },
+    {
+      "type": "empty",
+      "quote": "When priorities are clear,\nthe day becomes clearer too."
+    },
+    {
+      "type": "empty",
+      "quote": "One thing at a time.\nThat is enough."
+    },
+    {
+      "type": "empty",
+      "quote": "A good rhythm begins\nwith a small start."
+    },
+    {
+      "type": "empty",
+      "quote": "Starting feels lighter\nthan thinking about what was delayed."
+    },
+    {
+      "type": "empty",
+      "quote": "Do what was decided,\nnot merely what feels possible."
+    },
+    {
+      "type": "empty",
+      "quote": "On complicated days,\nchoose the next single step."
+    },
+    {
+      "type": "empty",
+      "quote": "Results may appear suddenly,\nbut the process builds every day."
+    },
+    {
+      "type": "empty",
+      "quote": "Focus is less about adding\nand more about removing."
+    },
+    {
+      "type": "empty",
+      "quote": "Today's choices\ncreate tomorrow's margin."
+    },
+    {
+      "type": "empty",
+      "quote": "One organized hour\noutlasts a scattered day."
+    },
+    {
+      "type": "empty",
+      "quote": "A good plan\nleaves room for action."
+    },
+    {
+      "type": "empty",
+      "quote": "Choose the possible now\nover the perfect moment."
+    },
+    {
+      "type": "empty",
+      "quote": "Clear standards\nreduce hesitation."
+    },
+    {
+      "type": "empty",
+      "quote": "Consistency is closer to rhythm\nthan willpower."
+    },
+    {
+      "type": "empty",
+      "quote": "Separate what ends today\nfrom what continues tomorrow."
+    },
+    {
+      "type": "empty",
+      "quote": "The more there is to do,\nthe simpler the order should be."
+    },
+    {
+      "type": "empty",
+      "quote": "Do not fill time;\nleave room for what matters."
+    },
+    {
+      "type": "empty",
+      "quote": "One small completion\ncreates the next movement."
+    },
+    {
+      "type": "empty",
+      "quote": "A written plan\noutpaces vague intention."
+    },
+    {
+      "type": "empty",
+      "quote": "Set the direction\nbefore picking up speed."
+    },
+    {
+      "type": "empty",
+      "quote": "Even a long day moves\nfrom a single beginning."
+    },
+    {
+      "type": "empty",
+      "quote": "Reduce the size of the first step,\nnot the importance of the work."
+    },
+    {
+      "type": "empty",
+      "quote": "Unscheduled time\nis part of the plan."
+    },
+    {
+      "type": "empty",
+      "quote": "An orderly start\nreduces unnecessary effort."
+    },
+    {
+      "type": "empty",
+      "quote": "You cannot finish everything,\nbut you can choose what matters."
+    },
+    {
+      "type": "empty",
+      "quote": "Once the focus is chosen,\nthe rest can wait."
+    },
+    {
+      "type": "empty",
+      "quote": "Measure today by progress,\nnot by busyness."
+    },
+    {
+      "type": "empty",
+      "quote": "Planning is not predicting the future;\nit is deciding today."
+    },
+    {
+      "type": "empty",
+      "quote": "The method you can repeat\nis the method that lasts."
+    },
+    {
+      "type": "empty",
+      "quote": "Space between schedules\nkeeps the day balanced."
+    },
+    {
+      "type": "empty",
+      "quote": "Record what you decide,\nand carry out what you record."
+    },
+    {
+      "type": "empty",
+      "quote": "Keep the goal distant\nand the task close."
+    },
+    {
+      "type": "empty",
+      "quote": "Work becomes clear\nwhen divided into finishable parts."
+    },
+    {
+      "type": "empty",
+      "quote": "One block today\nmoves the whole plan forward."
+    },
+    {
+      "type": "empty",
+      "quote": "A calm sequence\nis stronger than hurried motion."
+    },
+    {
+      "type": "empty",
+      "quote": "Using time for what matters\nis the most practical plan."
+    },
+    {
+      "type": "empty",
+      "quote": "Once you begin,\nthe next step becomes visible."
+    },
+    {
+      "type": "empty",
+      "quote": "A day changes through small action,\nnot a grand resolution."
+    },
+    {
+      "type": "empty",
+      "quote": "Do not count the time left;\ndecide how to use it."
+    },
+    {
+      "type": "empty",
+      "quote": "Today's plan\nis a tool for today's life."
+    }
+  ]
+}

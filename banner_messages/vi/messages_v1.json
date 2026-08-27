@@ -1,32 +1,253 @@
-{"languageCode":"vi","quotes":[
-  {"type":"completed","quote":"Cách để bắt đầu là bớt nói\nvà bắt tay vào làm.","author":"Walt Disney"},
-  {"type":"completed","quote":"Lạc quan là niềm tin dẫn đến thành tựu.\nKhông có hy vọng thì không thể làm được gì.","author":"Helen Keller"},
-  {"type":"completed","quote":"Mọi việc luôn có vẻ bất khả thi\ncho đến khi hoàn thành.","author":"Nelson Mandela"},
-  {"type":"completed","quote":"Bí quyết để tiến lên\nlà bắt đầu.","author":"Mark Twain"},
-  {"type":"completed","quote":"Hành trình ngàn dặm\nbắt đầu từ một bước chân.","author":"Lão Tử"},
-  {"type":"completed","quote":"Thành công là tổng hòa của những nỗ lực nhỏ\nđược lặp lại mỗi ngày.","author":"Robert Collier"},
-  {"type":"completed","quote":"Hãy tin rằng bạn có thể.\nBạn đã đi được nửa đường rồi.","author":"Theodore Roosevelt"},
-  {"type":"completed","quote":"Giữa khó khăn\nluôn có cơ hội.","author":"Albert Einstein"},
-  {"type":"completed","quote":"Tương lai phụ thuộc vào\nnhững gì bạn làm hôm nay.","author":"Mahatma Gandhi"},
-  {"type":"completed","quote":"Việc lớn được tạo nên\ntừ nhiều việc nhỏ góp lại.","author":"Vincent van Gogh"},
-  {"type":"completed","quote":"Hãy hành động như thể việc bạn làm tạo ra khác biệt.\nVì nó thật sự có ý nghĩa.","author":"William James"},
-  {"type":"completed","quote":"Một mục tiêu nhỏ hoàn thành hôm nay\ncó thể trở thành chiến thắng lớn ngày mai.","author":"Khuyết danh"},
-  {"type":"empty","quote":"Giông bão rồi sẽ qua,\nvà mặt trời sẽ lại mọc."},
-  {"type":"empty","quote":"Nghỉ một chút cũng không sao."},
-  {"type":"empty","quote":"Cứ đi theo nhịp của riêng bạn."},
-  {"type":"empty","quote":"Hôm nay bạn không cần phải hoàn hảo.\nCó mặt và cố gắng là đủ rồi."},
-  {"type":"empty","quote":"Dừng lại, hít thở,\nrồi bắt đầu lại khi bạn sẵn sàng."},
-  {"type":"empty","quote":"Một bước nhỏ\nvẫn là đang tiến về phía trước."},
-  {"type":"empty","quote":"Hôm nay hãy dịu dàng với chính mình hơn một chút."},
-  {"type":"empty","quote":"Một ngày khó khăn\nkhông quyết định ngày mai của bạn."},
-  {"type":"empty","quote":"Con đường không biến mất\nchỉ vì bạn dừng lại nghỉ ngơi."},
-  {"type":"empty","quote":"Hãy giữ một suy nghĩ ấm áp\nbên mình hôm nay."},
-  {"type":"empty","quote":"Hôm nay bạn có thể chọn\ncon đường khiến lòng mình bớt đau hơn."},
-  {"type":"empty","quote":"Nỗ lực thầm lặng của bạn\nvẫn đang bén rễ."},
-  {"type":"empty","quote":"Hãy tin người đã ở bên bạn qua mọi ngày:\nchính bạn."},
-  {"type":"empty","quote":"Điều tốt đẹp có thể đến chậm\nnhưng vẫn đến đúng lúc."},
-  {"type":"empty","quote":"Một lời tử tế\ncó thể sưởi ấm khoảnh khắc lạnh giá nhất."},
-  {"type":"empty","quote":"Một hành động nhỏ ngay bây giờ\nmạnh hơn một kế hoạch hoàn hảo để sau."},
-  {"type":"empty","quote":"Dù hôm nay còn nhiều bất an,\nbạn vẫn có thể bước tiếp thật nhẹ nhàng."},
-  {"type":"empty","quote":"Những ngày thấy cô đơn,\nhãy đứng vững về phía chính mình."}
-]}
+{
+  "languageCode": "vi",
+  "quotes": [
+    {
+      "type": "completed",
+      "quote": "Cách để bắt đầu là bớt nói\nvà bắt tay vào làm.",
+      "author": "Walt Disney"
+    },
+    {
+      "type": "completed",
+      "quote": "Lạc quan là niềm tin dẫn đến thành tựu.\nKhông có hy vọng thì không thể làm được gì.",
+      "author": "Helen Keller"
+    },
+    {
+      "type": "completed",
+      "quote": "Mọi việc luôn có vẻ bất khả thi\ncho đến khi hoàn thành.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "type": "completed",
+      "quote": "Bí quyết để tiến lên\nlà bắt đầu.",
+      "author": "Mark Twain"
+    },
+    {
+      "type": "completed",
+      "quote": "Hành trình ngàn dặm\nbắt đầu từ một bước chân.",
+      "author": "Lão Tử"
+    },
+    {
+      "type": "completed",
+      "quote": "Thành công là tổng hòa của những nỗ lực nhỏ\nđược lặp lại mỗi ngày.",
+      "author": "Robert Collier"
+    },
+    {
+      "type": "completed",
+      "quote": "Hãy tin rằng bạn có thể.\nBạn đã đi được nửa đường rồi.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "type": "completed",
+      "quote": "Giữa khó khăn\nluôn có cơ hội.",
+      "author": "Albert Einstein"
+    },
+    {
+      "type": "completed",
+      "quote": "Tương lai phụ thuộc vào\nnhững gì bạn làm hôm nay.",
+      "author": "Mahatma Gandhi"
+    },
+    {
+      "type": "completed",
+      "quote": "Việc lớn được tạo nên\ntừ nhiều việc nhỏ góp lại.",
+      "author": "Vincent van Gogh"
+    },
+    {
+      "type": "completed",
+      "quote": "Hãy hành động như thể việc bạn làm tạo ra khác biệt.\nVì nó thật sự có ý nghĩa.",
+      "author": "William James"
+    },
+    {
+      "type": "completed",
+      "quote": "Một mục tiêu nhỏ hoàn thành hôm nay\ncó thể trở thành chiến thắng lớn ngày mai.",
+      "author": "Khuyết danh"
+    },
+    {
+      "type": "empty",
+      "quote": "Việc cần làm nhỏ hơn ta nghĩ,\nvà điểm bắt đầu cũng gần hơn."
+    },
+    {
+      "type": "empty",
+      "quote": "Kiểm tra hướng đi\ntrước khi nghĩ đến tốc độ."
+    },
+    {
+      "type": "empty",
+      "quote": "Hoàn thành thường đến từ\nnhững lần lặp lại âm thầm."
+    },
+    {
+      "type": "empty",
+      "quote": "Tập trung vào một việc\ncó thể làm ngay lúc này."
+    },
+    {
+      "type": "empty",
+      "quote": "Không cần vội,\nmiễn là không dừng lại."
+    },
+    {
+      "type": "empty",
+      "quote": "Một tiến bộ nhỏ\nvẫn là tiến bộ rõ ràng."
+    },
+    {
+      "type": "empty",
+      "quote": "Kế hoạch đơn giản,\nthực hiện đều đặn."
+    },
+    {
+      "type": "empty",
+      "quote": "Khi ưu tiên rõ ràng,\nmột ngày cũng trở nên sáng rõ."
+    },
+    {
+      "type": "empty",
+      "quote": "Mỗi lần một việc.\nNhư vậy là đủ."
+    },
+    {
+      "type": "empty",
+      "quote": "Nhịp điệu tốt bắt đầu\ntừ một khởi đầu nhỏ."
+    },
+    {
+      "type": "empty",
+      "quote": "Bắt tay vào làm nhẹ hơn\nviệc nghĩ mãi về điều trì hoãn."
+    },
+    {
+      "type": "empty",
+      "quote": "Làm đủ phần đã định,\nkhông chỉ phần thấy có thể."
+    },
+    {
+      "type": "empty",
+      "quote": "Ngày càng phức tạp,\ncàng nên chọn một bước kế tiếp."
+    },
+    {
+      "type": "empty",
+      "quote": "Kết quả có thể xuất hiện bất ngờ,\nnhưng quá trình được xây mỗi ngày."
+    },
+    {
+      "type": "empty",
+      "quote": "Tập trung gần với việc bớt đi\nhơn là thêm vào."
+    },
+    {
+      "type": "empty",
+      "quote": "Lựa chọn hôm nay\ntạo khoảng trống cho ngày mai."
+    },
+    {
+      "type": "empty",
+      "quote": "Một giờ ngăn nắp\ndài hơn một ngày phân tán."
+    },
+    {
+      "type": "empty",
+      "quote": "Kế hoạch tốt\nluôn chừa chỗ cho hành động."
+    },
+    {
+      "type": "empty",
+      "quote": "Chọn hiện tại khả thi\nthay vì thời điểm hoàn hảo."
+    },
+    {
+      "type": "empty",
+      "quote": "Tiêu chuẩn rõ ràng\ngiúp giảm do dự."
+    },
+    {
+      "type": "empty",
+      "quote": "Sự bền bỉ gần với nhịp điệu\nhơn là ý chí."
+    },
+    {
+      "type": "empty",
+      "quote": "Phân biệt việc kết thúc hôm nay\nvà việc tiếp tục ngày mai."
+    },
+    {
+      "type": "empty",
+      "quote": "Càng nhiều việc,\nthứ tự càng cần đơn giản."
+    },
+    {
+      "type": "empty",
+      "quote": "Đừng lấp đầy thời gian;\nhãy giữ chỗ cho điều quan trọng."
+    },
+    {
+      "type": "empty",
+      "quote": "Một việc nhỏ hoàn tất\ntạo ra chuyển động tiếp theo."
+    },
+    {
+      "type": "empty",
+      "quote": "Kế hoạch được ghi lại\nđi trước ý định mơ hồ."
+    },
+    {
+      "type": "empty",
+      "quote": "Chỉnh đúng hướng\ntrước khi tăng tốc."
+    },
+    {
+      "type": "empty",
+      "quote": "Một ngày dài cũng chuyển động\ntừ một lần bắt đầu."
+    },
+    {
+      "type": "empty",
+      "quote": "Đừng giảm giá trị công việc;\nhãy giảm kích thước bước đầu tiên."
+    },
+    {
+      "type": "empty",
+      "quote": "Khoảng thời gian để trống\ncũng là một phần của kế hoạch."
+    },
+    {
+      "type": "empty",
+      "quote": "Khởi đầu ngăn nắp\ngiảm bớt công sức không cần thiết."
+    },
+    {
+      "type": "empty",
+      "quote": "Không thể hoàn thành mọi việc,\nnhưng có thể chọn việc quan trọng."
+    },
+    {
+      "type": "empty",
+      "quote": "Khi đã chọn điều cần tập trung,\nnhững việc còn lại có thể chờ."
+    },
+    {
+      "type": "empty",
+      "quote": "Thước đo hôm nay là tiến bộ,\nkhông phải bận rộn."
+    },
+    {
+      "type": "empty",
+      "quote": "Lập kế hoạch không phải đoán tương lai,\nmà là quyết định hôm nay."
+    },
+    {
+      "type": "empty",
+      "quote": "Cách có thể lặp lại\nlà cách có thể bền lâu."
+    },
+    {
+      "type": "empty",
+      "quote": "Khoảng trống giữa các lịch trình\ntạo cân bằng cho một ngày."
+    },
+    {
+      "type": "empty",
+      "quote": "Ghi lại điều đã quyết,\nvà thực hiện điều đã ghi."
+    },
+    {
+      "type": "empty",
+      "quote": "Đặt mục tiêu ở xa,\nđặt việc cần làm ở gần."
+    },
+    {
+      "type": "empty",
+      "quote": "Chia thành phần có thể hoàn tất,\ncông việc sẽ trở nên rõ ràng."
+    },
+    {
+      "type": "empty",
+      "quote": "Một ô của hôm nay\nđưa cả kế hoạch tiến về phía trước."
+    },
+    {
+      "type": "empty",
+      "quote": "Thứ tự được chọn bình tĩnh\nmạnh hơn chuyển động vội vàng."
+    },
+    {
+      "type": "empty",
+      "quote": "Dành thời gian cho điều cần thiết\nlà kế hoạch thực tế nhất."
+    },
+    {
+      "type": "empty",
+      "quote": "Khi đã bắt đầu,\nbước tiếp theo sẽ hiện ra."
+    },
+    {
+      "type": "empty",
+      "quote": "Một ngày thay đổi nhờ hành động nhỏ,\nkhông phải quyết tâm lớn."
+    },
+    {
+      "type": "empty",
+      "quote": "Đừng đếm thời gian còn lại;\nhãy quyết định thời gian sẽ dùng."
+    },
+    {
+      "type": "empty",
+      "quote": "Kế hoạch hôm nay\nlà công cụ cho cuộc sống hôm nay."
+    }
+  ]
+}
